@@ -4,7 +4,7 @@
      <remote name="codedroid"
             fetch="https://github.com/Codedroid7"/>
      <remote name="PixelExperience"
-            fetch="https://github.com/VoltageOS"/>
+            fetch="https://github.com/PixelExperience"/>
        <remote name="ImSurajxD"
                 fetch="https://gitlab.com/ImSurajxD" />
 
