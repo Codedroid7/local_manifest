@@ -3,7 +3,7 @@
           
      <remote name="codedroid"
             fetch="https://github.com/Codedroid7"/>
-     <remote name="VoltageOS"
+     <remote name="PixelExperience"
             fetch="https://github.com/VoltageOS"/>
        <remote name="ImSurajxD"
                 fetch="https://gitlab.com/ImSurajxD" />
